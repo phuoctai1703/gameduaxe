@@ -230,7 +230,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1858005172513079971, guid: 62010132604e8c94d96b4cb4fe6d3394, type: 3}
       propertyPath: m_Constraints
-      value: 32
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1858005172513079971, guid: 62010132604e8c94d96b4cb4fe6d3394, type: 3}
       propertyPath: m_IsKinematic
@@ -414,7 +414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37d7a57127fcf5c4d9d3c689f24e18a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 60
+  speed: 30
   speedup: 2
 --- !u!1 &1833925877 stripped
 GameObject:

@@ -15,10 +15,10 @@ public class colliderfron : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        while (Input.GetAxis("Horizontal") != 0)
-        {
-            transform.rotation = new Vector3(transform.rotation.x, transform.rotation.y + 4f, transform.rotation.z);
-        }
+        //while (Input.GetAxis("Horizontal") != 0)
+        //{
+        //    transform.rotation = new Vector3(transform.rotation.x, transform.rotation.y + 4f, transform.rotation.z);
+        //}
     }
     public void Run()
     {
